@@ -1,0 +1,67 @@
+{
+  "contacts": [
+    {
+      "id": "14482cdb-40cb-4087-8009-c6f3a66d7e9d",
+      "name": "KRANTI",
+      "email": "0091",
+      "surname": "PATIL",
+      "designation": "Lead"
+    },
+    {
+      "id": "f9389e1b-6075-43ac-8d34-dc343613327a",
+      "name": "Sudip",
+      "email": "0055",
+      "surname": "Dhabu",
+      "designation": "Prduct Owner"
+    },
+    {
+      "id": "0d6a1e6f-215a-46e3-8a0c-3c1bb816b9d5",
+      "name": "Riya",
+      "surname": "Jagtiani",
+      "email": "0012",
+      "designation": "Developer"
+    },
+    {
+      "id": "2666cfec-8a77-451f-8495-d39496cee934",
+      "name": "Mayur ",
+      "surname": "Walzade",
+      "email": "0026",
+      "designation": "Frontend Developer"
+    },
+    {
+      "id": "6d3a7ba9-d838-47d1-b159-a4a7f04dd778",
+      "name": "Amol",
+      "surname": "Palekar",
+      "email": "0049",
+      "designation": "Web Developer"
+    },
+    {
+      "id": "68331a62-6868-4d1d-9317-3c3c69b63222",
+      "name": "Riya",
+      "surname": "Chowdhury",
+      "email": "0077",
+      "designation": "Scrum Master"
+    },
+    {
+      "id": "fd364677-5581-4b47-8434-259d7efe0b68",
+      "name": "Pradnya Walzade",
+      "email": "0116",
+      "surname": "Walzade",
+      "designation": "Lead"
+    },
+    {
+      "id": "c3e3d680-9b4e-4d0e-ae4a-51cb4abe8359",
+      "name": "Jordan ",
+      "surname": "Walke",
+      "email": " 2011",
+      "designation": "software engineer at Facebook"
+    },
+    {
+      "id": "53bfe5f9-c09b-4f1e-84dc-821c19991ddf",
+      "name": "Nilesh",
+      "surname": "Chowdhury",
+      "email": "0123",
+      "designation": "UI Developer"
+    }
+  ]
+}
